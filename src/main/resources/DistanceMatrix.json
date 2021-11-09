@@ -1,0 +1,347 @@
+[
+  {
+    "elements": [
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 0,
+          "humanReadable": "1 min"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 0,
+          "humanReadable": "1 ft"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 3212,
+          "humanReadable": "54 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 36232,
+          "humanReadable": "22.5 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1300,
+          "humanReadable": "22 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 8307,
+          "humanReadable": "5.2 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1328,
+          "humanReadable": "22 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 8684,
+          "humanReadable": "5.4 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 960,
+          "humanReadable": "16 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 6042,
+          "humanReadable": "3.8 mi"
+        },
+        "fare": null
+      }
+    ]
+  },
+  {
+    "elements": [
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 3208,
+          "humanReadable": "53 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 35765,
+          "humanReadable": "22.2 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 0,
+          "humanReadable": "1 min"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 0,
+          "humanReadable": "1 ft"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2784,
+          "humanReadable": "46 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 34777,
+          "humanReadable": "21.6 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2767,
+          "humanReadable": "46 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 26904,
+          "humanReadable": "16.7 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2299,
+          "humanReadable": "38 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 30403,
+          "humanReadable": "18.9 mi"
+        },
+        "fare": null
+      }
+    ]
+  },
+  {
+    "elements": [
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1216,
+          "humanReadable": "20 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 8109,
+          "humanReadable": "5.0 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2846,
+          "humanReadable": "47 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 35535,
+          "humanReadable": "22.1 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 0,
+          "humanReadable": "1 min"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 0,
+          "humanReadable": "1 ft"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1846,
+          "humanReadable": "31 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 16116,
+          "humanReadable": "10.0 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 643,
+          "humanReadable": "11 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 5629,
+          "humanReadable": "3.5 mi"
+        },
+        "fare": null
+      }
+    ]
+  },
+  {
+    "elements": [
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1331,
+          "humanReadable": "22 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 9201,
+          "humanReadable": "5.7 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2748,
+          "humanReadable": "46 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 26760,
+          "humanReadable": "16.6 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1908,
+          "humanReadable": "32 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 16305,
+          "humanReadable": "10.1 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 0,
+          "humanReadable": "1 min"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 0,
+          "humanReadable": "1 ft"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1507,
+          "humanReadable": "25 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 11333,
+          "humanReadable": "7.0 mi"
+        },
+        "fare": null
+      }
+    ]
+  },
+  {
+    "elements": [
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1031,
+          "humanReadable": "17 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 6084,
+          "humanReadable": "3.8 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 2464,
+          "humanReadable": "41 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 31923,
+          "humanReadable": "19.8 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 653,
+          "humanReadable": "11 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 5383,
+          "humanReadable": "3.3 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 1463,
+          "humanReadable": "24 mins"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 12504,
+          "humanReadable": "7.8 mi"
+        },
+        "fare": null
+      },
+      {
+        "status": "OK",
+        "duration": {
+          "inSeconds": 0,
+          "humanReadable": "1 min"
+        },
+        "durationInTraffic": null,
+        "distance": {
+          "inMeters": 0,
+          "humanReadable": "1 ft"
+        },
+        "fare": null
+      }
+    ]
+  }
+]

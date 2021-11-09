@@ -1,0 +1,205 @@
+{
+  "rides": [
+    {
+      "rideId": "2cc473b3-7720-4fb8-aea6-0308c4feb69e",
+      "creationTime": "2021-07-15T11:47:08.280341+05:30",
+      "capacityConsumption": {
+        "seats": "1"
+      },
+      "pickup": {
+        "location": {
+          "latitude": 12.922915,
+          "longitude": 80.127457
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T02:15:08+00:00",
+          "window": {
+            "start": "2021-07-15T07:25:08+05:30",
+            "end": "2021-07-15T08:05:08+05:30"
+          }
+        }
+      },
+      "dropOff": {
+        "location": {
+          "latitude": 12.913618698146374,
+          "longitude": 80.22078963900661
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T08:15:08+05:30",
+          "window": {
+            "start": "2021-07-15T08:00:08+05:30",
+            "end": "2021-07-15T08:15:08+05:30"
+          }
+        }
+      }
+    },
+    {
+      "rideId": "dc6c914a-d6b7-4b29-87ef-fec5fa6aef19",
+      "creationTime": "2021-07-15T11:47:08.281341+05:30",
+      "capacityConsumption": {
+        "seats": "1"
+      },
+      "pickup": {
+        "location": {
+          "latitude": 12.923031818261961,
+          "longitude": 80.1374326966787
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T17:20:08+05:30",
+          "window": {
+            "start": "2021-07-15T17:15:08+05:30",
+            "end": "2021-07-15T17:25:08+05:30"
+          }
+        }
+      },
+      "dropOff": {
+        "location": {
+          "latitude": 12.913618698146374,
+          "longitude": 80.22078963900661
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T18:30:08+05:30",
+          "window": {
+            "start": "2021-07-15T18:15:08+05:30",
+            "end": "2021-07-15T18:45:08+05:30"
+          }
+        }
+      }
+    },
+    {
+      "rideId": "340b4022-73b0-4a7e-a401-4cd2a9b7e1c8",
+      "creationTime": "2021-07-15T11:47:08.281341+05:30",
+      "capacityConsumption": {
+        "seats": "1"
+      },
+      "pickup": {
+        "location": {
+          "latitude": 12.923450902736379,
+          "longitude": 80.15876685605748
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T02:15:08+00:00",
+          "window": {
+            "start": "2021-07-15T07:25:08+05:30",
+            "end": "2021-07-15T08:05:08+05:30"
+          }
+        }
+      },
+      "dropOff": {
+        "location": {
+          "latitude": 12.913618698146374,
+          "longitude": 80.22078963900661
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T08:15:08+05:30",
+          "window": {
+            "start": "2021-07-15T08:00:08+05:30",
+            "end": "2021-07-15T08:15:08+05:30"
+          }
+        }
+      }
+    },
+    {
+      "rideId": "a71816e5-d7fe-4e5c-adbb-a14d64028f9f",
+      "creationTime": "2021-07-15T11:47:08.281341+05:30",
+      "capacityConsumption": {
+        "seats": "1"
+      },
+      "pickup": {
+        "location": {
+          "latitude": 12.920036008720954,
+          "longitude": 80.18503855088882
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T17:20:08+05:30",
+          "window": {
+            "start": "2021-07-15T17:15:08+05:30",
+            "end": "2021-07-15T17:25:08+05:30"
+          }
+        }
+      },
+      "dropOff": {
+        "location": {
+          "latitude": 12.913618698146374,
+          "longitude": 80.22078963900661
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T18:30:08+05:30",
+          "window": {
+            "start": "2021-07-15T18:15:08+05:30",
+            "end": "2021-07-15T18:45:08+05:30"
+          }
+        }
+      }
+    },
+    {
+      "rideId": "7fc8abce-ec76-46f5-bc4e-1cd6e21994cd",
+      "creationTime": "2021-07-15T11:47:08.282343+05:30",
+      "capacityConsumption": {
+        "seats": "1"
+      },
+      "pickup": {
+        "location": {
+          "latitude": 12.917641939233441,
+          "longitude": 80.19323018262354
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T02:30:08+00:00",
+          "window": {
+            "start": "2021-07-15T07:40:08+05:30",
+            "end": "2021-07-15T08:20:08+05:30"
+          }
+        }
+      },
+      "dropOff": {
+        "location": {
+          "latitude": 12.913618698146374,
+          "longitude": 80.22078963900661
+        },
+        "handlingDurationInSeconds": 300,
+        "desiredHandlingStartTime": {
+          "preferred": "2021-07-15T08:15:08+05:30",
+          "window": {
+            "start": "2021-07-15T08:00:08+05:30",
+            "end": "2021-07-15T08:15:08+05:30"
+          }
+        }
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "vehicleId": "vehicle1",
+      "capacityConfigurations": [
+        {
+          "seats": 10
+        }
+      ],
+      "currentLocation": {
+        "latitude": 12.915155389279564,
+        "longitude": 80.07253123500254
+      }
+    },
+    {
+      "vehicleId": "vehicle2",
+      "capacityConfigurations": [
+        {
+          "seats": 7
+        }
+      ],
+      "currentLocation": {
+        "latitude": 12.915155389279564,
+        "longitude": 80.07253123500254
+      }
+    }
+  ]
+}
